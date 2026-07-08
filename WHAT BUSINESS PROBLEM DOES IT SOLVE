@@ -1,42 +1,42 @@
 🔴 Business Problems Your Superstore Dashboard Solves
 
 Problem 1 — "We Don't Know Which Region is Making Us the Most Money"
-What your dashboard shows: Donut chart — West 33.37%, East 28.75%, Central 21.78%, South 16.1%
+What dashboard shows: Donut chart — West 33.37%, East 28.75%, Central 21.78%, South 16.1%
 Business Problem Solved:
 Without this, regional managers had no quick way to compare performance. Your dashboard instantly tells leadership that the West region drives 1 in 3 sales dollars while South is underperforming — allowing targeted sales strategy, budget reallocation, and regional campaigns.
 
 Problem 2 — "We Don't Know How Customers Are Paying Us"
-What your dashboard shows: Payment Mode donut — COD 43%, Online 35%, Cards 22%
+What dashboard shows: Payment Mode donut — COD 43%, Online 35%, Cards 22%
 Business Problem Solved:
 Businesses need to know payment preferences to optimize checkout, reduce cash handling costs, and push digital payment adoption. Your dashboard reveals that COD dominates at 43% — a signal to invest in incentivizing online payments to reduce operational costs.
 
 Problem 3 — "We Don't Know Which Customer Segment Drives Revenue"
-What your dashboard shows: Segment donut — Consumer 48%, Corporate 33%, Home Office 19%
+What dashboard shows: Segment donut — Consumer 48%, Corporate 33%, Home Office 19%
 Business Problem Solved:
 Marketing teams waste budgets targeting the wrong segment. Your dashboard shows Consumers contribute nearly half of all sales — meaning marketing should prioritize B2C campaigns over B2B outreach for maximum ROI.
 
 Problem 4 — "We Can't Track Sales Trends Month by Month Across Years"
-What your dashboard shows: Monthly Sales by YOY line chart — 2019, 2020, 2021 comparison
+What dashboard shows: Monthly Sales by YOY line chart — 2019, 2020, 2021 comparison
 Business Problem Solved:
 Without year-over-year comparison, companies can't tell if growth is real or just seasonal. Your time series chart shows consistent Q4 sales spikes every year — helping operations teams plan inventory, staffing, and logistics in advance instead of reacting last minute.
 
 Problem 5 — "We Don't Know Which Products to Stock More Of"
-What your dashboard shows: Sales by Sub-Category bar chart — Phones 197K, Chairs 182K, Binders 175K
+What dashboard shows: Sales by Sub-Category bar chart — Phones 197K, Chairs 182K, Binders 175K
 Business Problem Solved:
 Inventory managers often overstock slow-moving items and understock bestsellers. Your chart clearly shows Phones are the top-selling sub-category — giving procurement teams data to make smarter stock decisions and reduce dead inventory costs.
 
 Problem 6 — "We Don't Know Which Shipping Mode Customers Prefer"
-What your dashboard shows: Sales by Ship Mode — Standard Class 0.33M, Second Class 0.11M, First Class 0.08M, Same Day 0.03M
+What dashboard shows: Sales by Ship Mode — Standard Class 0.33M, Second Class 0.11M, First Class 0.08M, Same Day 0.03M
 Business Problem Solved:
 Logistics teams need to negotiate the right contracts with shipping partners. Your dashboard shows Standard Class handles 60%+ of all shipments — meaning optimizing Standard Class delivery speed and cost has the highest business impact.
 
 Problem 7 — "We Don't Know Which States Are Our Strongest Markets"
-What your dashboard shows: Map visual + Sales by State bar — California 0.34M, New York 0.19M, Texas 0.12M
+What dashboard shows: Map visual + Sales by State bar — California 0.34M, New York 0.19M, Texas 0.12M
 Business Problem Solved:
 Without geographic analysis, companies expand blindly. Your map and state chart show California alone generates 0.34M — more than double New York. This tells leadership where to open new stores, assign more sales reps, or launch targeted ad campaigns.
 
 Problem 8 — "We Can't Predict Future Sales — We're Always Reacting"
-What your dashboard shows: Page 2 — 15-Day Sales Forecast with confidence interval (green shaded area)
+What dashboard shows: Page 2 — 15-Day Sales Forecast with confidence interval (green shaded area)
 Business Problem Solved:
 This is your most powerful feature. Businesses that react to sales drops lose money. Your 15-day forecast with confidence bands allows:
 
@@ -46,6 +46,6 @@ Sales managers to set realistic short-term targets
 
 
 Problem 9 — "We Don't Know if Overall Business is Growing or Declining"
-What your dashboard shows: KPI Cards — Sales 1.6M, Quantity 22.3K, Profit 175K
+What dashboard shows: KPI Cards — Sales 1.6M, Quantity 22.3K, Profit 175K
 Business Problem Solved:
 These three numbers at the top give any executive a 10-second health check of the entire business. No Excel, no report needed — just open the dashboard and know instantly if the business is on track.
